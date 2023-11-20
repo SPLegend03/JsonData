@@ -1,1 +1,31 @@
-test
+[
+{
+  "typeString": null,
+  "name": "Bankdrücken",
+  "image": "hantel.png",
+  "description": "man drückt die Bank",
+  "type": 1,
+  "intensityScore": 0,
+  "personalScore": 0,
+  "area": 0
+},
+{
+  "typeString": null,
+  "name": "Kniebeugen",
+  "image": "hantel.png",
+  "description": "Man beugt die Knie",
+  "type": 1,
+  "intensityScore": 0,
+  "personalScore": 0,
+  "area": 0
+},
+{
+  "typeString": null,
+  "name": "Kreuzhebenn",
+  "image": "hantel.png",
+  "description": "man hebt das Kreuz",
+  "type": 1,
+  "intensityScore": 0,
+  "personalScore": 0,
+  "area": 0
+},
